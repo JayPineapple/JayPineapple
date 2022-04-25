@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning coding/programming by myself
 - 💞️ I’m looking to collaborate on any projects I can be help with
-- 📫 How to reach me jayseo25@gmail.com
+- 📫 How to reach me 
 
 <!---
 JayPineapple/JayPineapple is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
